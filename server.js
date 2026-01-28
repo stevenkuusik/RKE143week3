@@ -52,4 +52,4 @@ let studentList = students.map(student => {
 //sort()
 studentList.sort((a, b) => {return a.localeCompare(b)});
 
-console.log(studentList);c
+console.log(studentList);
